@@ -1,0 +1,4 @@
+[submodule "odoo-js-demo"]
+	path = odoo-js-demo
+	url = git@github.com:dbo-odoo/odoo-js-demo.git
+	branch = master
